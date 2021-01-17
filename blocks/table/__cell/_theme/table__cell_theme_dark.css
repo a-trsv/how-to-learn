@@ -1,0 +1,6 @@
+.table__cell_theme_dark {
+    padding: 0; /* обнуляем отступ от .table_cell из блока digits */
+    padding-top: 80px; /* прописываем отступ согласно брифу */
+    width: 200px;
+    color: #ffffff;
+  }

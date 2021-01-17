@@ -1,0 +1,12 @@
+/* Блок kaufman */
+
+.kaufman {
+    background-color: #1f1f1f;
+    padding-top: 90px; /* верхний отступ от feynman*/
+    padding-bottom: 90px; /* нижний отступ от footer*/
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+    position:relative;
+  }

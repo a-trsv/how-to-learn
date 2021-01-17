@@ -1,0 +1,10 @@
+/* Блок techniques */
+
+.techniques {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 100px;
+    margin: 0 auto; /*  по вертикали, по горизонтали*/
+    width: 80%;
+  }

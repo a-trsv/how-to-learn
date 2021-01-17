@@ -1,0 +1,6 @@
+.description {
+    display: flex;
+    padding: 100px 0 0 0; /* сверху | справа | снизу | слева,
+    исправление по брифу спринта 2 */
+    justify-content: center;
+  }

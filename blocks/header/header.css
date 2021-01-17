@@ -1,0 +1,13 @@
+/* Блок header */
+
+.header {
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    background-color: #f2f2f2;
+    display: flex;
+    position: relative;
+    align-items: center;
+    overflow: hidden; /* при изменении масштаба, содержимое блока */
+                       /*  не вылезает за его пределы */
+  }

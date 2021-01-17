@@ -1,0 +1,12 @@
+.two-columns__paragraph {
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    color: #000000;
+    margin: 0 0 30px 0;  /* сверху | справа | снизу | слева */
+}
+  /* Для второго параграфа обнуляем нижний отступ, чтобы прижать его к низу блока */
+
+.two-columns__paragraph:last-child {
+    margin: 0;
+}

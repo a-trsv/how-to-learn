@@ -1,0 +1,6 @@
+.video__iframes {
+    margin-top: 50px;
+    display: flex;
+    position: relative; /* при использовании margin-bottom: -60px; - не работает на Сафари */
+    top: 60px; /* при использовании margin-bottom: -60px; - не работает на Сафари */
+  }

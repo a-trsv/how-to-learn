@@ -1,0 +1,13 @@
+/* создать отдельный блок, применяем к синему квадрату в первом блоке хедер */
+@keyframes rotation {
+    from {
+         transform: rotate(0deg);
+     }
+     to {
+         transform: rotate(360deg);
+     }
+  }
+
+  .rotation {
+    animation: rotation 20s infinite;
+  }
