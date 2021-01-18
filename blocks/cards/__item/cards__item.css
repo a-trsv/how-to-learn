@@ -3,3 +3,9 @@
     text-align: center;
     margin-right: 100px;
   }
+
+/* обнуляем отступ для третьего элемента в ряду */
+
+.cards__item:nth-child(3n) {
+  margin-right: 0;
+}

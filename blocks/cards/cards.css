@@ -1,7 +1,9 @@
 .cards {
+    margin: 0;
+    padding-left: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     list-style: none; /* убираем маркеры списка */
-    margin: 0;
+    min-width: 920px;
 }

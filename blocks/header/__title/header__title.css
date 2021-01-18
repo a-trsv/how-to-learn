@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     margin-left: 64px; /* исправлено позиционирование */
-    width: 730px;
+    max-width: 730px;
     font-size: 102px;
     font-weight: bold;
     line-height: 96px;
