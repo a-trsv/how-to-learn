@@ -5,5 +5,5 @@
     flex-wrap: wrap;
     justify-content: center;
     list-style: none; /* убираем маркеры списка */
-    min-width: 920px;
+    width: 920px;
 }
